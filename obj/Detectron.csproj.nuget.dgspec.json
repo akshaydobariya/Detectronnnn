@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\158648\\Downloads\\Detectron-master\\Detectron-master\\Detectron\\Detectron.csproj": {}
+    "C:\\Users\\158648\\OneDrive - Arrow Electronics, Inc\\Desktop\\Dhirav\\Detectron.csproj": {}
   },
   "projects": {
-    "C:\\Users\\158648\\Downloads\\Detectron-master\\Detectron-master\\Detectron\\Detectron.csproj": {
+    "C:\\Users\\158648\\OneDrive - Arrow Electronics, Inc\\Desktop\\Dhirav\\Detectron.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\158648\\Downloads\\Detectron-master\\Detectron-master\\Detectron\\Detectron.csproj",
+        "projectUniqueName": "C:\\Users\\158648\\OneDrive - Arrow Electronics, Inc\\Desktop\\Dhirav\\Detectron.csproj",
         "projectName": "Detectron",
-        "projectPath": "C:\\Users\\158648\\Downloads\\Detectron-master\\Detectron-master\\Detectron\\Detectron.csproj",
+        "projectPath": "C:\\Users\\158648\\OneDrive - Arrow Electronics, Inc\\Desktop\\Dhirav\\Detectron.csproj",
         "packagesPath": "C:\\Users\\158648\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\158648\\Downloads\\Detectron-master\\Detectron-master\\Detectron\\obj\\",
+        "outputPath": "C:\\Users\\158648\\OneDrive - Arrow Electronics, Inc\\Desktop\\Dhirav\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Azure.AI.TextAnalytics": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
