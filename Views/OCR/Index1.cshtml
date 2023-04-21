@@ -1,0 +1,26 @@
+﻿@using Microsoft.Azure.CognitiveServices.Vision.ComputerVision;
+@using Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models;
+
+@{
+    ViewBag.Title = "OCR";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (ViewBag.RecognitionResult != null)
+{
+    <h3>Results:</h3>
+
+    <p><strong>Text:</strong></p>
+    @foreach (var region in ViewBag.RecognitionResult.Regions)
+    {
+        foreach (var line in region.Lines)
+        {
+            foreach (var word in line.Words)
+            {
+                <span>@word.Text </span>
+            }
+            <br />
+        }
+    }
+}

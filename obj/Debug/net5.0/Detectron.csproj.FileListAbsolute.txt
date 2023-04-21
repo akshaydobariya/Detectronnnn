@@ -1,0 +1,182 @@
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\appsettings.json
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\libman.json
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Detectron.exe
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Detectron.deps.json
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Detectron.runtimeconfig.json
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Detectron.runtimeconfig.dev.json
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Detectron.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\ref\Detectron.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Detectron.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Detectron.Views.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Detectron.Views.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Humanizer.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.AssemblyInfoInputs.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.AssemblyInfo.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.csproj.CoreCompileInputs.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.RazorAssemblyInfo.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.RazorAssemblyInfo.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\staticwebassets\Detectron.StaticWebAssets.Manifest.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\staticwebassets\Detectron.StaticWebAssets.xml
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\scopedcss\bundle\Detectron.styles.css
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.TagHelpers.input.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.TagHelpers.output.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.RazorCoreGenerate.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.RazorTargetAssemblyInfo.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.RazorTargetAssemblyInfo.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.Views.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.csproj.CopyComplete
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\ref\Detectron.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.pdb
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.genruntimeconfig.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Shared\_null.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Detectron.csproj.AssemblyReference.cache
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Administration\EditUserInRole.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\Image\Image.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\OCR\Index.cshtml.g.cs
+C:\Users\158648\OneDrive - Arrow Electronics, Inc\Desktop\FinalProject\Detectron\obj\Debug\net5.0\Razor\Views\OCR\Index1.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\appsettings.json
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\libman.json
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Detectron.exe
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Detectron.deps.json
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Detectron.runtimeconfig.json
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Detectron.runtimeconfig.dev.json
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Detectron.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\ref\Detectron.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Detectron.pdb
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Detectron.Views.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Detectron.Views.pdb
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Humanizer.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.csproj.AssemblyReference.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.AssemblyInfoInputs.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.AssemblyInfo.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.csproj.CoreCompileInputs.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.RazorAssemblyInfo.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.RazorAssemblyInfo.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\staticwebassets\Detectron.StaticWebAssets.Manifest.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\staticwebassets\Detectron.StaticWebAssets.xml
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\scopedcss\bundle\Detectron.styles.css
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.TagHelpers.input.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.TagHelpers.output.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.RazorCoreGenerate.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Administration\EditUserInRole.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Image\Image.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\OCR\Index.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\OCR\Index1.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Shared\_null.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.RazorTargetAssemblyInfo.cache
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.RazorTargetAssemblyInfo.cs
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.Views.pdb
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.csproj.CopyComplete
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\ref\Detectron.dll
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.pdb
+C:\Users\158648\Downloads\Detectron-master\Detectron-master\Detectron\obj\Debug\net5.0\Detectron.genruntimeconfig.cache

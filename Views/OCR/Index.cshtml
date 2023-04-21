@@ -1,0 +1,50 @@
+﻿
+@using Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models
+@model OcrResult
+@{
+    int no = 1;
+}
+<form method="post" asp-action="RecognizeText" asp-controller="OCR" enctype="multipart/form-data">
+    <div>
+        <h4 class="text-bold-300"><label for="formFileLg" class="form-label">Select an image file to upload:</label></h4>
+        <input type="file" name="file" class="form-control form-control-lg" id="formFileLg">
+    </div>
+    <div>
+        <button class="btn btn-primary btn-outline-black mt-2" type="submit" >Recognize Text</button>
+    </div>
+</form>
+
+
+    @if (Model != null)
+    {
+        <div class="text-center">
+            <h2>OCR Results</h2>
+            <div class="row text-center mt-25">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">No</th>
+                            <th scope="col">Attribute</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var region in Model.Regions)
+                        {
+                            @foreach (var line in region.Lines)
+                            {
+                                @foreach (var word in line.Words)
+                                {
+
+                                    <tr>
+                                        <th>@no</th>
+                                        <td>@word.Text</td>
+                                    </tr>
+                                    no = no + 1;
+                                }
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }

@@ -1,0 +1,38 @@
+﻿@model IList<string>
+@{
+    int no = 1;
+}
+
+@using (Html.BeginForm("Image", "Image", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <h4 class="text-bold-300"><label for="formFileLg" class="form-label">Select an image file to upload:</label></h4><br />
+    <input type="file" name="imageFile"  class="form-control form-control-lg" id="formFileLg" /><br />
+    <input type="submit" value="Upload" class="btn btn-primary btn-outline-black mt-2" />
+}
+
+@if (Model != null && Model.Count > 0)
+{
+    <div class="text-center">
+        <h2>Detected Tags</h2>
+        <div class="row text-center mt-25">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">No</th>
+                        <th scope="col">Attribute</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (string tag in Model)
+                    {
+                        <tr>
+                            <th>@no</th>
+                            <td>@tag</td>
+                        </tr>
+                        no = no + 1;
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
