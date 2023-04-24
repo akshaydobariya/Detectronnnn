@@ -1,6 +1,7 @@
 using Detectron.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -28,9 +29,11 @@ namespace Detectron
             services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(context => context.UseSqlServer(Configuration.GetConnectionString("DtectronDBConnection")));
             services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
-
             services.Configure<PasswordHasherOptions>(options =>options.CompatibilityMode = PasswordHasherCompatibilityMode.IdentityV2);
-
+            services.Configure<FormOptions>(options =>
+            {
+                options.MultipartBodyLengthLimit = 209715200; // 200 MB
+            });
 
             services.AddSession(options =>
             {
@@ -53,10 +56,17 @@ namespace Detectron
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.Use(next => context =>
+            {
+                context.Features.Get<IHttpMaxRequestBodySizeFeature>().MaxRequestBodySize = null;
+                return next(context);
+            });
 
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
             app.UseAuthentication();
-
-            app.UseAuthorization();
 
             app.UseSession();
 

@@ -33,9 +33,9 @@ namespace Detectron.Controllers
             {
                 // Call the Computer Vision API to detect tags in the image
                 var tags = await _computerVisionService.GetImageTagsAsync(imageFile.OpenReadStream());
-               
+                
                 // Display the detected tags in the view
-                return View(tags);
+                return Json(tags);
             }
             else
             {

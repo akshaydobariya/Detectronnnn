@@ -1,38 +1,236 @@
 ﻿@model IList<string>
-@{
-    int no = 1;
-}
+@{ int no = 1; }
 
-@using (Html.BeginForm("Image", "Image", FormMethod.Post, new { enctype = "multipart/form-data" }))
-{
-    <h4 class="text-bold-300"><label for="formFileLg" class="form-label">Select an image file to upload:</label></h4><br />
-    <input type="file" name="imageFile"  class="form-control form-control-lg" id="formFileLg" /><br />
-    <input type="submit" value="Upload" class="btn btn-primary btn-outline-black mt-2" />
-}
+@*@using (Html.BeginForm("Image", "Image", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <h4 class="text-bold-300"><label for="formFileLg" class="form-label">Select an image file to upload:</label></h4><br />
+        <input type="file" name="imageFile"  class="form-control form-control-lg" id="formFileLg" /><br />
+        <input type="submit" value="Upload" class="btn btn-primary btn-outline-black mt-2" />
+    }
 
-@if (Model != null && Model.Count > 0)
-{
-    <div class="text-center">
-        <h2>Detected Tags</h2>
-        <div class="row text-center mt-25">
-            <table class="table">
+    @if (Model != null && Model.Count > 0)
+    {
+        <div class="text-center">
+            <h2>Detected Tags</h2>
+            <div class="row text-center mt-25">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">No</th>
+                            <th scope="col">Attribute</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (string tag in Model)
+                        {
+                            <tr>
+                                <th>@no</th>
+                                <td>@tag</td>
+                            </tr>
+                            no = no + 1;
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }*@
+
+@*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');*@
+
+<style>
+    .drag-area {
+        background: #5256ad;
+        border: 2px dashed #fff;
+        height: 400px;
+        width: 700px;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+        .drag-area.active {
+            border: 2px solid #fff;
+        }
+
+        .drag-area .icon {
+            font-size: 100px;
+            color: #fff;
+        }
+
+        .drag-area header {
+            font-size: 30px;
+            font-weight: 500;
+            color: #fff;
+        }
+
+        .drag-area span {
+            font-size: 25px;
+            font-weight: 500;
+            color: #fff;
+            margin: 10px 0 15px 0;
+        }
+
+        .drag-area button {
+            padding: 10px 25px;
+            font-size: 20px;
+            font-weight: 500;
+            border: none;
+            outline: none;
+            background: #fff;
+            color: #5256ad;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .drag-area img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+</style>
+@*<link rel="stylesheet" href="./css/style.css">*@
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<div class="d-flex justify-content-center" style="max-height:400px">
+    <div class="drag-area w-50 mx-1">
+        <div class="icon"><i class="fas fa-cloud-upload-alt"></i></div>
+        <header>Drag & Drop to Upload File</header>
+        <span>OR</span>
+        <button type="button" id="browse-btn">Browse File</button>
+        <form enctype="multipart/form-data" id="imageForm">
+            <input type="file" name="imageFile" hidden>
+            <button type="submit" id="submit" hidden></button>
+        </form>
+    </div>
+    <div class="justify-content-center w-50 border border-1 mx-1">
+        <h2 class="text-center">Detected Tags</h2>
+
+<div class="text-center">
+
+    <div class="row text-center mt-25">
+        <div style="overflow:scroll;height:350px;width:100%;overflow:auto">
+            <table border="0" width="100%"  class="my-table">
                 <thead>
                     <tr>
                         <th scope="col">No</th>
                         <th scope="col">Attribute</th>
                     </tr>
                 </thead>
-                <tbody>
-                    @foreach (string tag in Model)
-                    {
-                        <tr>
-                            <th>@no</th>
-                            <td>@tag</td>
-                        </tr>
-                        no = no + 1;
-                    }
+
+                <tbody id="result">
+                    <tr>
+                        <td>
+                        </td>
+                    </tr>
                 </tbody>
+
             </table>
         </div>
+       
     </div>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(function () {
+            $('#imageForm').submit(function (event) {
+                event.preventDefault(); // prevent the default form submission behavior
+                var formData = new FormData(this); // create a new FormData object from the form
+                $.ajax({
+                    url: '@Url.Action("Image", "Image")', // replace with your controller action URL
+                    type: 'POST',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    success: function (result) {
+                        // update the view with the result
+                        // replace "#yourResultElement" with the ID of the element where you want to display the result
+                        console.log(result);
+                        result.forEach((value, key) => {
+                            $('#result').html((_, oldContent) => {
+                                return oldContent + `<tr><td>${key}</td><td>${value}</td></tr>`;
+                            });
+                        })
+                    },
+                    error: function (xhr, status, error) {
+                        // handle error
+                    }
+                });
+            });
+        });
+    </script>
 }
+
+<script>
+    //selecting all required elements
+    const dropArea = document.querySelector(".drag-area"),
+        dragText = dropArea.querySelector("header"),
+        submitButton = document.getElementById("submit"),
+        button = document.getElementById("browse-btn"),
+        input = dropArea.querySelector("input");
+    let file; //this is a global variable and we'll use it inside multiple functions
+
+    button.onclick = () => {
+        input.click(); //if user click on the button then the input also clicked
+        console.log('clicked1');
+    }
+
+    input.onchange = () => {
+        console.log('clicked');
+        submitButton.click();
+    }
+
+    input.addEventListener("change", function () {
+        //getting user select file and [0] this means if user select multiple files then we'll select only the first one
+        file = this.files[0];
+        dropArea.classList.add("active");
+        showFile(); //calling function
+    });
+
+
+    //If user Drag File Over DropArea
+    dropArea.addEventListener("dragover", (event) => {
+        event.preventDefault(); //preventing from default behaviour
+        dropArea.classList.add("active");
+        dragText.textContent = "Release to Upload File";
+    });
+
+    //If user leave dragged File from DropArea
+    dropArea.addEventListener("dragleave", () => {
+        dropArea.classList.remove("active");
+        dragText.textContent = "Drag & Drop to Upload File";
+    });
+
+    //If user drop File on DropArea
+    dropArea.addEventListener("drop", (event) => {
+        event.preventDefault(); //preventing from default behaviour
+        //getting user select file and [0] this means if user select multiple files then we'll select only the first one
+        file = event.dataTransfer.files[0];
+        showFile(); //calling function
+    });
+
+    function showFile() {
+        let fileType = file.type; //getting selected file type
+        let validExtensions = ["image/jpeg", "image/jpg", "image/png"]; //adding some valid image extensions in array
+        if (validExtensions.includes(fileType)) { //if user selected file is an image file
+            let fileReader = new FileReader(); //creating new FileReader object
+            fileReader.onload = () => {
+                let fileURL = fileReader.result; //passing user file source in fileURL variable
+                let imgTag = `<img src="${fileURL}" alt="">`; //creating an img tag and passing user selected file source inside src attribute
+                dropArea.innerHTML = imgTag; //adding that created img tag inside dropArea container
+            }
+            fileReader.readAsDataURL(file);
+        } else {
+            alert("This is not an Image File!");
+            dropArea.classList.remove("active");
+            dragText.textContent = "Drag & Drop to Upload File";
+        }
+    }
+
+</script>
+
+
+
+
